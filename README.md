@@ -8,7 +8,7 @@
 * I love using sass and pure css, it drives me crazy. 🤪🤪
 
 <div class="banner-contenedor">
-    <img style="height:10rem;" class="banner" src="./ghost-rider-minimalism-4k.jpg"/>
+    <img style="height:10rem;width:100%;" class="banner" src="./ghost-rider-minimalism-4k.jpg"/>
 </div>
 
 ### Skils
