@@ -6,17 +6,12 @@
 * 🤑 I enjoy using React to build modern, interactive web applications that provide a seamless user experience.
 * I love using sass and pure css, it drives me crazy. 🤪🤪
 
-<div style="height: 10rem;overflow:hidden;">
+<div style="height:10rem;overflow:hidden;">
     <img style="object-fit: cover;object-position: 0 -50px;width: 100%;" src="./ghost-rider-minimalism-4k.jpg"/>
 </div>
 
 ### Skils
-<div style="
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-">
+<div style="display: flex;flex-direction: column;align-items: center;gap: 10px;">
     <div style="display: flex;
         gap: 10px;">
         <img style="transition: all .3s ease-in-out;" width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"/>
@@ -40,13 +35,3 @@
         <img style="transition: all .3s ease-in-out;" width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
         </div>
 </div>
-
-
-<style>
-    
-
-    .skils div img:hover {
-        transform: scale(1.1);
-    }
-   
-</style>
