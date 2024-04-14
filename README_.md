@@ -1,16 +1,16 @@
-
+  
 ### Web Developer @DAndersonBurga 😎👋
 **Computer and Systems Engineering** student, Lambayeque-Perú. :)
-
+  
 ### About me
 * I love the flexibility and power of the Spring ecosystem for creating web applications, APIs, and services. :)
 * 🤑 I enjoy using React to build modern, interactive web applications that provide a seamless user experience.
 * I love using sass and pure css, it drives me crazy. 🤪🤪
-
+  
 <div class="banner-contenedor">
     <img class="banner" src="./ghost-rider-minimalism-4k.jpg"/>
 </div>
-
+  
 ### Skils
 <div class="skils">
     <div>
@@ -34,7 +34,7 @@
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
         </div>
 </div>
-
+  
 <style>
 .skils {
     display: flex;
@@ -61,3 +61,4 @@
     width: 100%;
 }
 </style>
+  
