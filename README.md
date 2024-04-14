@@ -13,7 +13,7 @@
 
 ### Skils
 <div align="center">
-    <div>
+    <div id="contenedor">
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"/>
@@ -25,7 +25,7 @@
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
     </div>
-    <div>
+    <div id="contenedor">
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
@@ -36,28 +36,9 @@
 </div>
 
 <style>
-.skils {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-}
-.skils div {
+#contenedor {
     display: flex;
     gap: 10px;
-}
-.skils div img {
-    transition: all .3s ease-in-out;
-}
-.skils div img:hover {
-    transform: scale(1.1);
-}
-.banner-contenedor {
-    height: 10rem;
-}
-.banner {
-    object-fit: cover;
-    object-position: 0 -40px;
-    width: 100%;
+    justify-content: center;
 }
 </style>
