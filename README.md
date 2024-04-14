@@ -8,11 +8,11 @@
 * I love using sass and pure css, it drives me crazy. 🤪🤪
 
 <div style="height:10rem;" class="banner-contenedor">
-    <img style="height:10rem;" class="banner" src="./ghost-rider-minimalism-4k.jpg"/>
+    <img style="" class="banner" src="./ghost-rider-minimalism-4k.jpg"/>
 </div>
 
 ### Skils
-<div class="skils">
+<div style="width:100%;margin:0 auto;" class="skils">
     <div>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"/>
