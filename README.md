@@ -7,9 +7,7 @@
 * I love using sass and pure css, it drives me crazy. 🤪🤪
 
 <div style="height: 10rem;">
-    <img style="object-fit: cover;
-        object-position: 0 -50px;
-        width: 100%;" src="./ghost-rider-minimalism-4k.jpg"/>
+    <img style="height: 10rem;object-fit: cover;object-position: 0 -50px;width: 100%;" src="./ghost-rider-minimalism-4k.jpg"/>
 </div>
 
 ### Skils
