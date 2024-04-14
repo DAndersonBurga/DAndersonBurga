@@ -1,31 +1,4 @@
-<style>
-    .skils {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 10px;
-    }
-
-    .skils div {
-        display: flex;
-        gap: 10px;
-    }
-    .skils div img {
-        transition: all .3s ease-in-out;
-    }
-
-    .skils div img:hover {
-        transform: scale(1.1);
-    }
-    .banner-contenedor {
-        height: 10rem;
-    }
-    .banner {
-        object-fit: cover;
-        object-position: 0 -40px;
-        width: 100%;
-    }
-</style>
+<link rel="stylesheet" href="./styles.css"/>
 ### Web Developer @DAndersonBurga 😎👋
 **Computer and Systems Engineering** student, Lambayeque-Perú. :)
 
