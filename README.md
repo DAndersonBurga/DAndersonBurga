@@ -7,8 +7,8 @@
 * 🤑 I enjoy using React to build modern, interactive web applications that provide a seamless user experience.
 * I love using sass and pure css, it drives me crazy. 🤪🤪
 
-<div style="height:10rem;" class="banner-contenedor">
-    <img style="" class="banner" src="./ghost-rider-minimalism-4k.jpg"/>
+<div class="banner-contenedor">
+    <img style="height:10rem;" class="banner" src="./ghost-rider-minimalism-4k.jpg"/>
 </div>
 
 ### Skils
