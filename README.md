@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="./styles.css"/>
+<link rel="stylesheet" href="styles.css"></link>
+
 ### Web Developer @DAndersonBurga 😎👋
 **Computer and Systems Engineering** student, Lambayeque-Perú. :)
 
@@ -34,3 +35,9 @@
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
         </div>
 </div>
+
+<style>
+    div{
+        width: 2rem;
+    }
+</style>
