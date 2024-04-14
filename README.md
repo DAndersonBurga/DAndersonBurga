@@ -34,10 +34,31 @@
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
         </div>
+    <style>
+        .skils {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    }
+    .skils div {
+        display: flex;
+        gap: 10px;
+    }
+    .skils div img {
+        transition: all .3s ease-in-out;
+    }
+    .skils div img:hover {
+        transform: scale(1.1);
+    }
+    .banner-contenedor {
+        height: 10rem;
+    }
+    .banner {
+        object-fit: cover;
+        object-position: 0 -40px;
+        width: 100%;
+    }
+    </style>
 </div>
 
-<style>
-    div{
-        width: 2rem;
-    }
-</style>
