@@ -24,6 +24,6 @@
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-        <img src="https://skillicons.dev/icons?i=docker,angular,typescript,jenkins,postgres" />
+        <img src="https://skillicons.dev/icons?i=docker,angular,typescript,jenkins,postgres,tailwindcss" />
         </div>
 </div>
