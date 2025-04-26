@@ -23,6 +23,7 @@
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+        <img src="https://skillicons.dev/icons?i=nextjs" />
     </div>
     <div style="display:flex;justify-content:center;gap:10px;">
         <img width="50px" heigth="50px" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"/>
